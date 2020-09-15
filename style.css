@@ -1,0 +1,59 @@
+h1, h2, h3, h4, h5, h6 {
+    margin-top: 0;
+    margin-bottom: 0.5rem;
+    font-weight: bolder;
+    font-size: 90px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+  }
+
+        p{
+            font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+        }
+
+
+  .box1{
+    background-color: #4E4A4A ;
+    width: 800px;
+    padding:0 20px;
+  }
+  .titik{
+      color:deepskyblue;
+  }
+
+  .text1{
+      color: white;
+  }
+
+  .text2{
+      color: deepskyblue;
+  }
+
+  .our{
+    color: #F1F38C;
+  }
+
+  img {
+    border-radius: 50%;
+    width: 100px;
+    height: 100px;
+  }
+
+  .image{
+    display: inline-block;
+    margin:auto;
+
+    position: absolute;
+    bottom: 200px;
+  }
+
+
+
+
+  .servicelist {
+    background-color: deepskyblue;
+    width: 800px;
+    padding:0 20px;
+    
+  }
+
+  
